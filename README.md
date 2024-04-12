@@ -1,6 +1,6 @@
 # Hello world ! :cowboy_hat_face:
 ## Welcome to my profile .  :wave: I'm Georgina
----
+
 [![](https://visitcount.itsvg.in/api?id=GeorginaTS&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
