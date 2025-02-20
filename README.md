@@ -22,7 +22,7 @@
             this.contact = {
                 email: "georginatomass@gmail.com",
                 linkedIn: "https://www.linkedin.com/in/georgina-tomas/",
-                github: "https://github.com/GeorginaTS",
+            github: "https://github.com/GeorginaTS",
             };
             this.skills = [
             "HTML", "CSS", "JavaScript", "Git", "GitHub", "React", "Vue.js", "Responsive Design",
@@ -51,4 +51,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorginaTS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+--- 
+ # ** 👉 [Take a look at my CV](cv.md)**
