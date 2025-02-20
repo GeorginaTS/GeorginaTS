@@ -27,9 +27,10 @@ Place and date of birth: Barcelona, June 5, 1977
 - **UI/UX Design:** Responsive design principles, accessibility best practices
 - **Problem-solving:** Debugging, performance optimization
 - **Collaboration & Communication:** Agile methodologies, teamwork experience in web projects
-- **Hosting & Deployment:** Netlify, Vercel, Firebase
+
 - **APIs & Data Handling:** RESTful APIs, JSON
-- **Database Knowledge:** SQL, NoSQL
+- **Database Knowledge:** SQL, NoSQL(MongoDb)
+- **Hosting & Deployment:** Netlify, Render, Railway
 - **Cloud Computing:** AWS fundamentals, AWS Certified Cloud Practitioner
 
 ---
