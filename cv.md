@@ -1,8 +1,7 @@
 ![alt text](image.png)
 
 **GEORGINA TOMAS SANCHEZ**  
-CAN TOMAS, Sot del Palau s/n - 17401 Arbúcies (Girona)  
-Tel: 670.288.563  
+17401 Arbúcies (Girona)  
 Email: <georginatomass@gmail.com>  
 LinkedIn: [linkedin.com/in/georgina-tomas](https://www.linkedin.com/in/georgina-tomas/)  
 GitHub: [github.com/GeorginaTS](https://github.com/GeorginaTS)  
