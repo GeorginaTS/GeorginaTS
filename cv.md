@@ -31,7 +31,7 @@ Place and date of birth: Barcelona, June 5, 1977
 - **Hosting & Deployment:** Netlify, Vercel, Firebase
 - **APIs & Data Handling:** RESTful APIs, JSON
 - **Database Knowledge:** SQL, NoSQL
-- **Cloud Computing:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="100px"> AWS fundamentals, AWS Certified Cloud Practitioner
+- **Cloud Computing:** AWS fundamentals, AWS Certified Cloud Practitioner
 
 ---
 
