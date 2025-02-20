@@ -104,7 +104,7 @@ Place and date of birth: Barcelona, June 5, 1977
 
 ## **CERTIFICATIONS & LICENSES**
 
-- **AWS Certified Cloud Practitioner** (2024)
+- **AWS Certified Cloud Practitioner** (2025)
 - Driver’s license (A2 & B) – Owner of a personal vehicle
 
 ---
