@@ -1,20 +1,24 @@
-![alt text](image.png)
+# **GEORGINA TOMAS SANCHEZ**  
 
-**GEORGINA TOMAS SANCHEZ**  
+🗺️ 17401 Arbúcies (Girona)  
 
-17401 Arbúcies (Girona)  
+**Email:** <georginatomass@gmail.com>
 
-Email: <georginatomass@gmail.com>
+**LinkedIn:** <a href="https://www.linkedin.com/in/georgina-tomas/" target="_blank">linkedin.com/in/georgina-tomas</a>
 
-LinkedIn: <a href="https://www.linkedin.com/in/georgina-tomas/" target="_blank">linkedin.com/in/georgina-tomas</a>
+**GitHub:** <a href="https://github.com/GeorginaTS" target="_blank">github.com/GeorginaTS</a>
 
-GitHub: <a href="https://github.com/GeorginaTS" target="_blank">github.com/GeorginaTS</a>
-
-Place and date of birth: Barcelona, June 5, 1977
+## **ABOUT ME**  
+Full-Stack Developer with extensive experience in web development and digital project management. Passionate about technology, continuous learning, and problem-solving. Strong expertise in front-end and back-end development, along with experience in cloud computing and agile methodologies. Recently certified as an AWS Cloud Practitioner and always seeking new challenges to grow professionally.  
 
 ---
-## **ABOUT ME**  
-**Full-stack developer** with extensive knowledge in web technologies, multimedia, and digital project management. Skilled in front-end technologies, cloud computing, and problem-solving. Recently certified as an AWS Cloud Practitioner and always eager to learn new technologies.  
+
+## **MOTIVATION**  
+I am motivated to work in a company where I can continue learning and developing my skills as a web developer. I am a responsible, hardworking person with a lot of initiative. I am eager to be part of a team where I can contribute my talent and help drive the company's success.  
+
+- **Problem-Solving:** Ability to analyze problems, identify solutions, and implement them effectively.  
+- **Adaptability:** Ability to adapt to new technologies and work environments.  
+- **Continuous Learning:** Ability to learn independently and stay up to date with the latest trends in the field.  
 
 ---
 
@@ -36,6 +40,8 @@ Place and date of birth: Barcelona, June 5, 1977
 - **UI/UX Design:** Responsive design principles, accessibility best practices
 - **Problem-solving:** Debugging, performance optimization
 - **Collaboration & Communication:** Agile methodologies, teamwork experience in web projects
+
+
 - **APIs & Data Handling:** RESTful APIs, JSON
 - **Database Knowledge:** SQL, NoSQL(MongoDb)
 - **Hosting & Deployment:** Netlify, Render, Railway
