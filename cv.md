@@ -8,10 +8,11 @@
 
 **GitHub:** <a href="https://github.com/GeorginaTS" target="_blank">github.com/GeorginaTS</a>
 
-## **ABOUT ME**  
-Full-Stack Developer with extensive experience in web development and digital project management. Passionate about technology, continuous learning, and problem-solving. Strong expertise in front-end and back-end development, along with experience in cloud computing and agile methodologies. Recently certified as an AWS Cloud Practitioner and always seeking new challenges to grow professionally.  
+## **ABOUT ME**
+Passionate **Full-Stack Developer** with expertise in **web development** and **digital project management**. Skilled in **front-end** and **back-end technologies**, problem-solving, and continuous learning. Recently certified as an **AWS Cloud Practitioner**, always eager for new challenges and innovation.  
 
-## **MOTIVATION**  
+
+## **MOTIVATION**
 I am motivated to work in a company where I can continue learning and developing my skills as a web developer. I am a responsible, hardworking person with a lot of initiative. I am eager to be part of a team where I can contribute my talent and help drive the company's success.  
 
 - **Problem-Solving:** Ability to analyze problems, identify solutions, and implement them effectively.  
@@ -28,11 +29,12 @@ I am motivated to work in a company where I can continue learning and developing
 
 - **Version Control:**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100px"> Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100px"> GitHub
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100px"> Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100px"> GitHub
 
 - **Frontend Frameworks:**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px"> React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="100px"> Vue.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="100px"> Vue.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px"> React
 
 - **UI/UX Design:** Responsive design principles, accessibility best practices
 - **Problem-solving:** Debugging, performance optimization
