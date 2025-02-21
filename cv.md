@@ -11,8 +11,6 @@
 ## **ABOUT ME**  
 Full-Stack Developer with extensive experience in web development and digital project management. Passionate about technology, continuous learning, and problem-solving. Strong expertise in front-end and back-end development, along with experience in cloud computing and agile methodologies. Recently certified as an AWS Cloud Practitioner and always seeking new challenges to grow professionally.  
 
----
-
 ## **MOTIVATION**  
 I am motivated to work in a company where I can continue learning and developing my skills as a web developer. I am a responsible, hardworking person with a lot of initiative. I am eager to be part of a team where I can contribute my talent and help drive the company's success.  
 
@@ -20,7 +18,6 @@ I am motivated to work in a company where I can continue learning and developing
 - **Adaptability:** Ability to adapt to new technologies and work environments.  
 - **Continuous Learning:** Ability to learn independently and stay up to date with the latest trends in the field.  
 
----
 
 ## **TECHNICAL SKILLS**
 
@@ -47,7 +44,7 @@ I am motivated to work in a company where I can continue learning and developing
 - **Hosting & Deployment:** Netlify, Render, Railway
 - **Cloud Computing:** AWS fundamentals, AWS Certified Cloud Practitioner
 
----
+------
 
 ## **📖 EDUCATION**
 
