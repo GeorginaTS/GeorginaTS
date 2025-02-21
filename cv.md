@@ -1,11 +1,20 @@
 ![alt text](image.png)
 
 **GEORGINA TOMAS SANCHEZ**  
+
 17401 Arbúcies (Girona)  
-Email: <georginatomass@gmail.com>  
-LinkedIn: <a href="https://www.linkedin.com/in/georgina-tomas/" target="_blank">linkedin.com/in/georgina-tomas</a>  
-GitHub: <a href="https://github.com/GeorginaTS" target="_blank">github.com/GeorginaTS</a>  
+
+Email: <georginatomass@gmail.com>
+
+LinkedIn: <a href="https://www.linkedin.com/in/georgina-tomas/" target="_blank">linkedin.com/in/georgina-tomas</a>
+
+GitHub: <a href="https://github.com/GeorginaTS" target="_blank">github.com/GeorginaTS</a>
+
 Place and date of birth: Barcelona, June 5, 1977
+
+---
+## **ABOUT ME**  
+**Full-stack developer** with extensive knowledge in web technologies, multimedia, and digital project management. Skilled in front-end technologies, cloud computing, and problem-solving. Recently certified as an AWS Cloud Practitioner and always eager to learn new technologies.  
 
 ---
 
