@@ -27,7 +27,6 @@ Place and date of birth: Barcelona, June 5, 1977
 - **UI/UX Design:** Responsive design principles, accessibility best practices
 - **Problem-solving:** Debugging, performance optimization
 - **Collaboration & Communication:** Agile methodologies, teamwork experience in web projects
-
 - **APIs & Data Handling:** RESTful APIs, JSON
 - **Database Knowledge:** SQL, NoSQL(MongoDb)
 - **Hosting & Deployment:** Netlify, Render, Railway
@@ -39,13 +38,11 @@ Place and date of birth: Barcelona, June 5, 1977
 
 ## *2024*
 
-**Professional Certificate in Web Application Development Technologies** -
-***Merit School*** (Badalona)
+[**Professional Certificate in Web Application Development Technologies**](./docs/SOC-CP-app-web.PDF) - ***Merit School*** (Badalona)
 
 ## *2023*
 
-**Fullstack Bootcamp (850h)**
-***Factoria F5*** (Badalona)
+[**Fullstack Bootcamp (850h)**](./docs/F5-Bootcamp-P7%20850h%20mixta.pdf) - ***Factoria F5*** (Badalona)
 
 - Training in HTML, CSS, JavaScript, Git, GitHub, React, and modern web development practices
 - Hands-on projects and teamwork experience in web application development
@@ -98,13 +95,13 @@ Place and date of birth: Barcelona, June 5, 1977
 
 - **Catalan** – Native
 - **Spanish** – Native
-- **English** – B1 Level Certificate (CEFR)
+- **English** – [B1 Level Certificate (CEFR)](./docs/B1-ENGLISH-UAB.pdf)
 
 ---
 
 ## **CERTIFICATIONS & LICENSES**
 
-- **AWS Certified Cloud Practitioner** (2025)
+- [**AWS Certified Cloud Practitioner**](./docs/AWS%20Certified%20Cloud%20Practitioner.pdf) (2025)
 - Driver’s license (A2 & B) – Owner of a personal vehicle
 
 ---
