@@ -51,5 +51,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorginaTS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
---- 
- # **👉 [Take a look at my CV](cv.md)**
+---
+
+[!IMPORTANT]
+**👉 [Take a look at my CV](cv.md)**
