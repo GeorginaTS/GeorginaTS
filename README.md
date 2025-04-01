@@ -54,4 +54,4 @@
 ---
 
 [!IMPORTANT]
-**👉 [Take a look at my CV](cv.md)**
+    **👉 [Take a look at my CV](cv.md)**

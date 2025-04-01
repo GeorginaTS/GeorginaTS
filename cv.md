@@ -56,7 +56,7 @@ I am motivated to work in a company where I can continue learning and developing
 
 ## *2023*
 
-**<a href="./docs/F5-Bootcamp-P7%20850h%20mixta.pdf" target="_blank"> Fullstack Bootcamp (850h)</a>** - ***Factoria F5*** (Badalona)
+**<a href="./docs/F5-Bootcamp-P7%20850h%20mixta.pdf" target="_blank"> Fullstack Bootcamp (850h)</a>** - ***Factoria F5*** (Barcelona)
 
 - Training in HTML, CSS, JavaScript, Git, GitHub, React, and modern web development practices
 - Hands-on projects and teamwork experience in web application development
