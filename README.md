@@ -64,9 +64,8 @@ Remote-first | Open to hybrid roles
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorginaTS&show_icons=true&theme=vivid&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorginaTS&layout=compact&theme=vivid&hide=html,css" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeorginaTS&layout=compact&theme=dark&hide=html,css&cache_seconds=7200&hide_border=true" />
 </p>
 
 ## 📫 Let's Connect!
