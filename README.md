@@ -62,6 +62,13 @@ Remote-first | Open to hybrid roles
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorginaTS&show_icons=true&theme=vivid&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorginaTS&layout=compact&theme=vivid&hide=html,css" />
+</p>
+
 ## 📫 Let's Connect!
 
 I'm always open to discussing new projects, collaborations, or opportunities.
